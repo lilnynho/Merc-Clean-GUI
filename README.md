@@ -53,11 +53,6 @@ A Windows desktop application (WinForms) that provides a one-stop GUI for variou
 
 ## How to Use
 
-Download `ZIP`
-**Now use `MyMaintenanceApp.exe`** (right-click and “Run as administrator,” if necessary)
-
-## Or
-
 1. **Launch `MercCleanGo - GUI.exe`** (right-click and “Run as administrator,” if necessary).
 2. Click any of the maintenance buttons, such as:
    - **SFC Scan** to run `sfc /scannow`.
