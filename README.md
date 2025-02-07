@@ -1,4 +1,4 @@
-# MercClean - GUI
+# MercCleanGo - GUI
 
 A Windows desktop application (WinForms) that provides a one-stop GUI for various system maintenance tasks—like SFC scans, DISM checks, clearing temp files/cache, and more. This tool is especially helpful for quickly troubleshooting and cleaning up Windows machines, with the ability to cancel operations mid-run if needed.
 
