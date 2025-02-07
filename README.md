@@ -58,7 +58,7 @@ Download `ZIP`
 
 ## Or
 
-1. **Launch `MercClean - GUI.exe`** (right-click and “Run as administrator,” if necessary).
+1. **Launch `MercCleanGo - GUI.exe`** (right-click and “Run as administrator,” if necessary).
 2. Click any of the maintenance buttons, such as:
    - **SFC Scan** to run `sfc /scannow`.
    - **DISM CheckHealth** / **ScanHealth** / **RestoreHealth** for DISM checks.
