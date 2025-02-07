@@ -38,7 +38,7 @@ A Windows desktop application (WinForms) that provides a one-stop GUI for variou
 
 - **Windows 10 or higher**  
 ~~- **.NET 6+** or **.NET Framework 4.7.2+** (depending on your project setup)~~
-**- Now you can run the app directly without any dependencies! :)**
+- **Now you can run the app directly without any dependencies! :)**
  - **Administrator privileges** (the application checks at startup)
 
 ---
