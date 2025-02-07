@@ -37,7 +37,7 @@ A Windows desktop application (WinForms) that provides a one-stop GUI for variou
 ## Requirements
 
 - **Windows 10 or higher**  
-- **.NET 6+** or **.NET Framework 4.7.2+** (depending on your project setup)  
+~~- **.NET 6+** or **.NET Framework 4.7.2+** (depending on your project setup)~~  
 - **Administrator privileges** (the application checks at startup)
 
 ---
@@ -52,8 +52,12 @@ A Windows desktop application (WinForms) that provides a one-stop GUI for variou
 ---
 
 ## How to Use
-Download .zip
-now use MyMaintenanceApp.exe (right-click and “Run as administrator,” if necessary)
+
+Download `ZIP`
+**Now use `MyMaintenanceApp.exe`** (right-click and “Run as administrator,” if necessary)
+
+## Or
+
 1. **Launch `MercClean - GUI.exe`** (right-click and “Run as administrator,” if necessary).
 2. Click any of the maintenance buttons, such as:
    - **SFC Scan** to run `sfc /scannow`.
@@ -81,3 +85,4 @@ Contributions and pull requests are welcome! If you have bug fixes or new featur
 
 - **Merc Clean Developer** – For the original command-line concept.
 - **DPixel Team** – For additional functionalities, GUI improvements, and the kill-process feature.
+- **Lilnynho** – The generated executable can be distributed without requiring the installation of the .NET Runtime.
